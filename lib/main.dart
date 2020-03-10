@@ -23,7 +23,7 @@ class MyApp extends StatelessWidget {
                 ),
               ),
               Text(
-                'Cikarang',
+                'Hello',
                 style: TextStyle(color: Colors.grey[500]),
               )
             ],
